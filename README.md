@@ -1,4 +1,4 @@
-# ConversorMonedas
+# Conversor de Monedas
 Programa conversor de monedas en java mediante una API
 
 Menú principal del programa
